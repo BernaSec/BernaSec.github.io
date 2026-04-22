@@ -4,37 +4,22 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Sobre mim
 ## Biografia
 
-Sou *Bernardo Florentino*, um estudante brasileiro de Segurança da Informação, aspirante a pentester, focado em segurança ofensiva. Fiz esse site para demonstrar minhas habilidades e meus trabalhos com foco principal em *OffSec*. Aqui você também vai encontrar projetos e diagramas de rede, CTFs write-ups e desenvolvimento de softwares.
+Sou **Bernardo Florentino**, um estudante brasileiro de Segurança da Informação, aspirante a pentester, focado em segurança ofensiva. Fiz esse site para demonstrar minhas habilidades e meus trabalhos com foco principal em **OffSec**. Aqui você também vai encontrar projetos e diagramas de rede, CTFs write-ups e desenvolvimento de softwares.
+
+I am **Bernardo Florentino**, an student of Information Security, pentester aspirant, focus in Ofensive Security. I do this site for demonstrate my habilities and my works. Here you can see, network logic diagrams, CTFs write-ups and software developments.  
 
 ## Idiomas
 
 Inglês - Avançado | Português - Nativo
 
-<h2> Cursos & Certificações 
+## Cursos & Certificações
 
----
-
-<div style="background-color: #2d333b; padding: 24px; border-radius: 8px; border: 1px solid #444c56; color: #cbd5e1; margin-bottom: 30px; font-family: sans-serif; line-height: 1.6;">
-  <h2>Sobre mim</h2>
-  Sou <strong style="color: white;">Bernardo Florentino</strong>, um estudante brasileiro de Segurança da Informação, aspirante a pentester, focado em segurança ofensiva. Fiz este site para demonstrar minhas habilidades e meus trabalhos com foco principal em <strong>OffSec</strong>. Aqui você também vai encontrar projetos e diagramas de rede, CTF write-ups e desenvolvimento de softwares.
-</div>
-
-<h2 style="color: white; font-family: sans-serif;">Idiomas</h2>
-
-<div style="display: flex; gap: 15px; flex-wrap: wrap; font-family: sans-serif; margin-bottom: 30px;">
-  
-  <div style="background-color: #2d333b; padding: 15px; border-radius: 8px; border: 1px solid #444c56; flex: 1; min-width: 200px;">
-    <strong style="color: white; display: block;">Inglês</strong>
-    <span style="color: #64748b; font-size: 0.9em;">Avançado</span>
-  </div>
-
-  <div style="background-color: #2d333b; padding: 15px; border-radius: 8px; border: 1px solid #444c56; flex: 1; min-width: 200px;">
-    <strong style="color: white; display: block;">Português</strong>
-    <span style="color: #64748b; font-size: 0.9em;">Nativo</span>
-  </div>
-  
-</div>
+### Cisco:
+<ul>
+    Endpoint Security
+    Introduction to Cybersecuity
+    Networking Basics
+</ul>
 
