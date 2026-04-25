@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 <p>
 <a href="assets/img/favicons/header-background-onepiece.jpg" class="popup img-link"> 
