@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://BernaSec.github.io"
 
 github:
-  username: BernasSec # change to your GitHub username
+  username: BernaSec # change to your GitHub username
 
 social:
   # Change to your full name.
@@ -36,11 +36,10 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/BernaSec # change to your GitHub homepage
     # Uncomment below to add more social links
-    - https://linkedin.com/in/bernardo-florentino
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/bernardo-florentino
+    - https://github.com/BernaSec # change to your GitHub homepage
+    - https://www.linkedin.com/in/bernardo-florentino/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -86,7 +85,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
