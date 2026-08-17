@@ -29,7 +29,7 @@ Só se inscrever e esperar um tempo para começar. Conseguindo a bolsa, você te
 <div id="como-funciona">
 <h3>Como funciona:</h3>
 <p>
-A "certificação" se divide em 9 cursos, agora 10, ainda mais dividido em módulos dentro desses mais submódulos. Onde o assunto é explorado por meio leituras, vídeos e práticas utilizando Qwiklabs da Google.
+A "certificação" se divide em 9 cursos, ainda mais dividido em módulos dentro desses mais submódulos. Onde o assunto é explorado por meio leituras, vídeos e práticas utilizando Qwiklabs da Google.
 <br>
 Ela demonstra breviedade nos assuntos, pois é um curso introdutório para pessoas que não sabem de nada sobre cibersegurança. Os assuntos são básicos, vai entrar, terá uma série de vídeos e leituras sobre ferramentas como Suricata, Splunk, Wazuh. Mas que as práticas não fazem metade disso, é basicamente tudo guiado, sem muitos desafios para quem está aprendendo, sendo somente seguir um passo a passo. A cada final de submódulos, terá uma pequena prova de 4 a 5 perguntas fáceis, podendo ser refeitas ilimitadamente; elas não têm bloqueio de tirar print e também todas as respostas certas serão mostradas ao fim (quando enviar), caso você tenha errado. Ao final de cada módulo, terá uma prova um pouco mais robusta, com conceitos mais aprofundados, cobrindo tudo que foi passado e somente isso, nada externo. Essa serão 10 questões, com limite de 3 tentativas a cada 24h e, após enviar, não mostrará qual é a correta.
 <br>
@@ -54,7 +54,7 @@ Continue exercitando a mente de segurança, monte labs, aprenda errando, constru
 <div id="resumo">
 <h3>Resumo:</h3>
 <p>
-O Google Cybersecurity Professional Certificate é um curso introdutório, dividido em 9 (agora 10) cursos, com módulos e submódulos que misturam leituras, vídeos e práticas em Qwiklabs, passando por ferramentas como Suricata, Splunk e Wazuh. As avaliações são leves e tranquilas, provas de submódulo com tentativas ilimitadas e gabarito exposto, e provas de módulo um pouco mais exigentes (10 questões, 3 tentativas a cada 24h, sem gabarito). O ponto forte de verdade são as "Atividades de Portfólio", importante focar nelas.
+O Google Cybersecurity Professional Certificate é um curso introdutório, dividido em 9 cursos, com módulos e submódulos que misturam leituras, vídeos e práticas em Qwiklabs, passando por ferramentas como Suricata, Splunk e Wazuh. As avaliações são leves e tranquilas, provas de submódulo com tentativas ilimitadas e gabarito exposto, e provas de módulo um pouco mais exigentes (10 questões, 3 tentativas a cada 24h, sem gabarito). O ponto forte de verdade são as "Atividades de Portfólio", importante focar nelas.
 <br>
 Vale a pena? Diria que sim, principalmente como base, seja para quem está começando do zero, seja para quem já estudou o assunto na faculdade e quer reforçar conceitos esquecidos pela falta de prática. O maior porém é que, na prática, as atividades são guiadas e não fazem o aluno se esforçar muito, e o peso da certificação no mercado caiu, já que triagens automatizadas e certificações mais técnicas (CCNA, OSCP, eJPT, ou DCPT aqui no Brasil) pesam mais no currículo hoje.
 <br>
